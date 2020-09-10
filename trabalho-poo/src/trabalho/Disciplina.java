@@ -7,5 +7,6 @@ public class Disciplina {
 	 int numVagas;
 	 int numAlunosMatriculados;
 	 String nomeProf;
+	 float nota;
 
 }
